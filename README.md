@@ -1,5 +1,5 @@
 # Click 'n' Clone 
-A bookmarklet for rapid repo cloning.
+A bookmarklet for rapid repo cloning. Just click and clone!
 
 
 ### Quickly Clone GitHub Repo with Bookmarklet
