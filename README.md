@@ -13,12 +13,14 @@ To quickly clone a GitHub repository, follow these steps:
      ```
    This starts a local server on port 5000 that will handle the repository cloning.
 
-2. **Set up the bookmarklet**:
+    **Note:** The cloned repository will be placed in directory 'github_clones' in the same directory where the server script is run.
+
+3. **Set up the bookmarklet**:
    - Copy the code below.
    - Create a new bookmark in your browser.
    - Paste the copied code into the bookmark's URL field.
 
-3. **Using the bookmarklet**:
+4. **Using the bookmarklet**:
    - Once the server is running and you've added the bookmarklet, go to any GitHub repository page.
    - Click the bookmark to clone the repo.
 
@@ -34,4 +36,4 @@ javascript:(function(){
         alert('This doesn\'t appear to be a GitHub repository page.');
     }
 })();
-
+```
