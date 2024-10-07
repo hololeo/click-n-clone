@@ -17,7 +17,9 @@ To quickly clone a GitHub repository, follow these steps:
    This starts a local server on port 5000 that will handle the repository cloning.
 
     **Note:** The cloned repository will be placed in directory 'github_clones' in the same directory where the server script is run.
+
 If this work has been helpful to you, you can support it for free by clicking ⭐ to star the repository.
+
 3. **Set up the bookmarklet**:
    - Copy the code below.
    - Create a new bookmark in your browser.
@@ -48,5 +50,5 @@ javascript:(function(){
 
 **Note:** Developed and tested only on MacOSX.
 
-If this work has been helpful to you, you can support it for free by clicking ⭐ to star the repository.
+
 
