@@ -41,6 +41,7 @@ javascript:(function(){
    - Once complete, the browser will show a tree output of the files.
 
 ![click-n-clone-result](https://github.com/user-attachments/assets/c2fa83ff-8d82-477e-8788-9273449da990)
+<img src="https://github.com/user-attachments/assets/c2fa83ff-8d82-477e-8788-9273449da990" width="250">
 
 
 **Note:** Developed and tested only on MacOSX.
