@@ -37,6 +37,7 @@ javascript:(function(){
         alert('This doesn\'t appear to be a GitHub repository page.');
     }
 })();
+// use with bookmarklet maker https://caiorss.github.io/bookmarklet-maker/
 ```
 
 **Note:** Developed and tested only on MacOSX.
