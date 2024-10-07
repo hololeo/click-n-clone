@@ -3,6 +3,7 @@ A bookmarklet for rapid repo cloning. Just click and clone!
 
 <img src="https://github.com/user-attachments/assets/da26d168-89b0-4779-af73-3a67e02c41ad" width="150">
 
+If this work has been helpful to you, you can support it for free by clicking ⭐ to star the repository.
 
 ### Quickly Clone GitHub Repo with Bookmarklet
 
