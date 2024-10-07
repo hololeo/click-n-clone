@@ -1,2 +1,2 @@
-# git-clone-bookmarklet
+# Click 'n' Clone 
 Click 'n' Clone – Bookmarklet for rapid repo cloning
