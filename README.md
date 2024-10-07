@@ -2,7 +2,7 @@
 A bookmarklet for rapid repo cloning.
 
 
-### Clone GitHub Repo Bookmarklet
+### Quickly Clone GitHub Repo with Bookmarklet
 
 To quickly clone a GitHub repository, follow these steps:
 
