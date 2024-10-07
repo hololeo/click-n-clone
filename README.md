@@ -1,2 +1,4 @@
 # Click 'n' Clone 
-Click 'n' Clone – Bookmarklet for rapid repo cloning
+A bookmarklet for rapid repo cloning.
+
+Drag this link
