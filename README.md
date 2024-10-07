@@ -9,7 +9,6 @@ To quickly clone a GitHub repository, follow these steps:
 1. **First, run the server**:
    - Run the following command to start the server:
      ```bash
-     # pip install Flask
      python server.py
      ```
    This starts a local server on port 5000 that will handle the repository cloning.
