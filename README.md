@@ -1,6 +1,9 @@
 # Click 'n' Clone 
 A bookmarklet for rapid repo cloning. Just click and clone!
 
+<img src="https://github.com/user-attachments/assets/da26d168-89b0-4779-af73-3a67e02c41ad" width="250">
+
+
 ### Quickly Clone GitHub Repo with Bookmarklet
 
 To quickly clone a GitHub repository, follow these steps:
