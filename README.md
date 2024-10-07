@@ -5,7 +5,7 @@ A bookmarklet for rapid repo cloning. Just click and clone!
 
 
 
-https://github.com/user-attachments/assets/ab26f6cc-fe23-4f36-ad76-92fa451799bb
+
 
 
 
@@ -52,8 +52,10 @@ javascript:(function(){
    - Once complete, the browser will show a tree output of the files.
    - <img src="https://github.com/user-attachments/assets/c2fa83ff-8d82-477e-8788-9273449da990" width="300">
 
-
 **Note:** Developed and tested only on MacOSX.
 
+### NotebookLLm podcast on this readme
+
+https://github.com/user-attachments/assets/ab26f6cc-fe23-4f36-ad76-92fa451799bb
 
 
