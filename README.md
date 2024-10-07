@@ -1,7 +1,6 @@
 # Click 'n' Clone 
 A bookmarklet for rapid repo cloning. Just click and clone!
 
-
 ### Quickly Clone GitHub Repo with Bookmarklet
 
 To quickly clone a GitHub repository, follow these steps:
@@ -23,6 +22,8 @@ To quickly clone a GitHub repository, follow these steps:
 4. **Using the bookmarklet**:
    - Once the server is running and you've added the bookmarklet, go to any GitHub repository page.
    - Click the bookmark to clone the repo.
+   - The repo will be cloned in directory **'github_clones'** relative to the server.py script
+   - Once complete, the browser will show a tree output of the files.
 
 ```javascript
 javascript:(function(){
@@ -37,3 +38,6 @@ javascript:(function(){
     }
 })();
 ```
+
+**Note:** Developed and tested only on MacOSX.
+
