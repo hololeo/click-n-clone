@@ -1,6 +1,8 @@
 # Click 'n' Clone 
 A bookmarklet for rapid repo cloning. Just click and clone!
 
+v2 - now supports Hugging Face Spaces
+
 <img src="https://github.com/user-attachments/assets/da26d168-89b0-4779-af73-3a67e02c41ad" width="150">
 
 
@@ -11,9 +13,9 @@ A bookmarklet for rapid repo cloning. Just click and clone!
 
 
 
-### Quickly Clone GitHub Repo with Bookmarklet
+### Quickly Clone GitHub / Hugging Face Spaces Repo with Bookmarklet
 
-To quickly clone a GitHub repository, follow these steps:
+To quickly clone a repository on Github or Hugging Face Spaces, follow these steps:
 
 1. **First, run the server**:
    - Run the following command to start the server:
@@ -54,7 +56,7 @@ javascript:(function(){
 ```
 
 4. **Using the bookmarklet**:
-   - Once the server is running and you've added the bookmarklet, go to any GitHub repository page.
+   - Once the server is running and you've added the bookmarklet, go to any GitHub repository page or Hugging Face Spaces page.
    - Click the bookmark to clone the repo.
    - The repo will be cloned in directory **'github_clones'** relative to the server.py script
    - Once complete, the browser will show a tree output of the files.
